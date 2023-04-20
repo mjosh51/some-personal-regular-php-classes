@@ -170,7 +170,7 @@ class CreateTable {
   }
 
   /**
-   * Creates table using procedural approach.
+   * Creates table using pdo approach.
    * 
    * Takes the table name and columns.
    * 
